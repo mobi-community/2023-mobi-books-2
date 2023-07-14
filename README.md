@@ -25,7 +25,7 @@
 - interface과 type alias의 차이와 사용 용도는 무엇일까
 - enum과 as const, tree shaking이란? 그렇다면 enum은 절대 사용하지 말아야하나?
 
-3. 조내 자체 주제 학습 (타입스크립트 관련)
+3. 조내 자체 주제 학습 (typescript 및 nextJS 관련)
 
 4. 모비 패스 과제 관련 소통 및 코드리뷰
 ```
