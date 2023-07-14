@@ -58,11 +58,6 @@
 타입 스크립트의 빌드 원리를 파해치며 우리가 타입스크립트를 사용해야만 하는 이유에 대해서 학습하자
 ```
 
-#### 타입스크립트 프로젝트를 구현해보자!
-```
-타입스크립트 사이드 프로젝트를 구현하고 본인이 사용한 타입에 대하여 설명하기
-```
-
 #### enum과 as const
 ```
 enum과 as const, tree shaking이란? 그렇다면 enum은 절대 사용하지 말아야하나?
@@ -86,62 +81,13 @@ interface과 type alias의 차이와 사용 용도는 무엇일까
       </a>  
     </td>
     <td>
-      <a href="https://github.com/HyunseoKoo">
-        <img src="https://avatars.githubusercontent.com/u/117560047?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/Doeunnkimm">
         <img src="https://avatars.githubusercontent.com/u/112946860?v=4" width="120px" height="120px"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/nasilKiM">
-        <img src="https://avatars.githubusercontent.com/u/117559842?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/seonyeong719">
-        <img src="https://avatars.githubusercontent.com/u/117560052?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Jolibee
-    </th>
-    <th>
-      Cathy
-    </th>
-    <th>
-      Woony
-    </th>
-    <th>
-       Natalie
-    </th>
-     <th>
-       Celine
-    </th>
-  </tr>
-</table>
-
-#### group2
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/zivivle">
-        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
-      </a>  
-    </td>
-    <td>
       <a href="https://github.com/yesoryeseul">
         <img src="https://avatars.githubusercontent.com/u/123865139?v=4" width="120px" height="120px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/JeongwooHam">
-        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
       </a>
     </td>
     <td>
@@ -152,13 +98,13 @@ interface과 type alias의 차이와 사용 용도는 무엇일까
   </tr>
   <tr>
     <th>
-      Zoey
+      Jolibee
+    </th>
+    <th>
+      Woony
     </th>
     <th>
       Kei
-    </th>
-    <th>
-      Jane
     </th>
     <th>
       Heepy
@@ -166,7 +112,51 @@ interface과 type alias의 차이와 사용 용도는 무엇일까
   </tr>
 </table>
 
+#### group2
 
-
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HyunseoKoo">
+        <img src="https://avatars.githubusercontent.com/u/117560047?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nasilKiM">
+        <img src="https://avatars.githubusercontent.com/u/117559842?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JeongwooHam">
+        <img src="https://avatars.githubusercontent.com/u/123251211?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zivivle">
+        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/seonyeong719">
+        <img src="https://avatars.githubusercontent.com/u/117560052?v=4" width="120px" height="120px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Cathy
+    </th>
+    <th>
+      Natalie
+    </th>
+    <th>
+      Jane
+    </th>
+    <th>
+      Zoey
+    </th>
+    <th>
+      Celine
+    </th>
+  </tr>
+</table>
